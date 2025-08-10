@@ -12,3 +12,4 @@ Sistema para calcular propinas, los gastos del usuario, permitiendo dividirlos p
   - Se mejora el performance renderizando componentes especificos
 
 PREVIEW: https://control-de-gastos-context-api-pi.vercel.app/
+(¡Desliza izquierda o derecha para editar o eliminar categoria)
